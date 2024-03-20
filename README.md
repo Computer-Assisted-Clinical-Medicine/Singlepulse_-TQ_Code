@@ -7,5 +7,8 @@ See the paper below for detailed desctiption of the SP method.
 
 
 If you use this code for your work please cite the following paper.
+
+
 Simon Reichert, Victor Schepkin, Dennis Kleimaier, Frank G. Zöllner and Lothar R. Schad
-23Na Triple Quantum MR Signal Extraction Using a Single-pulse Sequence with Single Quantum Time Efficiency
+23Na Triple Quantum MR Signal Extraction Using a Single-pulse Sequence with Single Quantum Time Efficiency.
+Magnetic Resonace in Medicine, 2024, 
